@@ -1,1 +1,2 @@
 nome = 'pedro'
+local = 'github'
